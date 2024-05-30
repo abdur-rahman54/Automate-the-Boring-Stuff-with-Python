@@ -1,7 +1,7 @@
 Practice Questions
 
 Question 1: Which of the following are operators, and which are values?
-'''bash
+```bash
 *
 'hello'
 -88.8
@@ -9,4 +9,4 @@ Question 1: Which of the following are operators, and which are values?
 /
 +
 5
-'''
+
