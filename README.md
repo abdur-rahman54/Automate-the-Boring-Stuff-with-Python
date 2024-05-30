@@ -27,7 +27,7 @@ cd Automate-the-Boring-Stuff-with-Python
 
 Make sure you have Python installed on your machine. You can download it from python.org
 
-##Usage
+## Usage
 Each chapter has its own directory containing solutions to the exercises from that chapter. You can navigate to the relevant chapter directory and run the scripts as needed.
 
 Example: You want to go to chapter 1.
@@ -38,7 +38,7 @@ python exercise1.py
 
 Feel free to explore the code, read the comments, and check the documentation provided within each script. This will help you understand the logic and concepts behind each solution.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you have alternative solutions, improvements, or additional resources, please feel free to submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
@@ -49,6 +49,6 @@ Contributions are welcome! If you have alternative solutions, improvements, or a
 	5. Open a pull request
 
 
-##License
+## License
 
 This repository is licensed under the MIT License. See the LICENSE file for more information.
