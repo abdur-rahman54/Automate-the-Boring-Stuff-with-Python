@@ -25,12 +25,12 @@ git clone https://github.com/abdur-rahman54/Automate-the-Boring-Stuff-with-Pytho
 cd Automate-the-Boring-Stuff-with-Python
 ```
 
-Make sure you have Python installed on your machine. You can download it from python.org
+Make sure you have Python installed on your machine. You can download it from [python.org](https://www.python.org)
 
 ## Usage
 Each chapter has its own directory containing solutions to the exercises from that chapter. You can navigate to the relevant chapter directory and run the scripts as needed.
 
-Example: You want to go to chapter 1.
+Example: You want to go to Chapter 1.
 ```
 cd chapter-1_PYTHON_BASICS
 python exercise1.py
@@ -51,4 +51,4 @@ Contributions are welcome! If you have alternative solutions, improvements, or a
 
 ## License
 
-This repository is licensed under the MIT License. See the LICENSE file for more information.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
