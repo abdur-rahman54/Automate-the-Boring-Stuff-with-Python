@@ -2,6 +2,7 @@
 
 Welcome to the repository for practicing exercises from the book "Automate the Boring Stuff with Python" by Al Sweigart. This repository contains my solutions to all the exercises, along with detailed explanations and documentation to help you understand each concept and code snippet.
 
+You can read this book from [this site](https://automatetheboringstuff.com/)
 
 ## Table of Contents
 
