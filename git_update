@@ -1,9 +1,22 @@
 #!/bin/bash
 
-file=$1
-comments="$2"
+# Navigate to the repository directory
+cd "$1" || exit
 
+# Add all changes
+git add .
+
+# Commit changes with the provided message
+git commit -m "$2"
+
+# Stash changes if there are any
+git stash
+
+# Pull the latest changes
 git pull origin main
-git add "$file"
-git commit -m "$comments"
-git push
+
+# Apply stashed changes
+git stash pop
+
+# Push the committed changes
+git push origin main
